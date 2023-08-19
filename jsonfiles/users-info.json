@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "userName": "test",
+      "password": "automation",
+      "email": "abs@gmail.com",
+      "userType": "Admin"
+    },
+    {
+      "userName": "test",
+      "password": "automation",
+      "email": "abs@gmail.com",
+      "userType": "Customer"
+    },
+    {
+      "userName": "test",
+      "password": "automation",
+      "email": "abs@gmail.com",
+      "userType": "Employee"
+    }
+  ]
+}
